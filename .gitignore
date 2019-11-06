@@ -3,7 +3,7 @@
 
 /nbproject/
 
-SetupTestUsers.java
+src/main/java/utils/SetupTestUsers.java
 
 
 # Created by https://www.gitignore.io/api/intellij+all
